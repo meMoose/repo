@@ -5,19 +5,19 @@
 	<compatibility>
 		<firmware>
 			<maxiOS></maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions></otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>wget</dependencies>
 	<descriptionlist>
 		<description>A Command-line utility to install deb packages with url</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change></change>
 	</changelog>
-	<links></links>
+	<links>https://memoose.github.io/repo/</links>
 </package>

@@ -1,0 +1,15 @@
+Package: com.moose.insurl
+Name: Insurl
+Version: 1.2
+Size: 1358
+Architecture: iphoneos-arm
+Maintainer: Moose <gathering011@gmail.com>
+Author: Moose <gathering011@gmail.com>
+Depends: wget
+Section: Utilities
+Tag: role::enduser, purpose::console
+MD5sum: 59d24f25e9511c182bd6b86074a4c98f
+SHA1sum: d93546f6d61fa59391a1db4e445ec0c92b24d6cc
+SHA256sum: aa5b280b588da8a9cbe2aa7f19888565e233dd6cbb2ba7b79102240699ae2144
+Filename: debs//Insurl.deb
+Depiction: https://memoose.github.io/repo/depic/Insurl.html

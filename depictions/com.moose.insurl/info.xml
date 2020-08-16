@@ -1,0 +1,23 @@
+<package>
+	<id>com.moose.insurl</id>
+	<name>Insurl</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>All Ios</maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>wget</dependencies>
+	<descriptionlist>
+		<description>A Command-line utility to install deb packages through url.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>https://github.com/meMoose/repo</links>
+</package>

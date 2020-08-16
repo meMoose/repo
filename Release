@@ -1,9 +1,8 @@
-Origin: Moose
-Label: Moose
+Origin: Moose Repo
+Label: Moose Official Repo
 Suite: stable
 Version: 1.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: gathering011@gmail.com
-Depictions: https://memoose.github.io/repo/depictions/?p=com.moose.insurl

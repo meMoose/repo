@@ -5,4 +5,5 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: gathering011@gmail.com
+Description: this is a utility that allow you to install deb packages with url through command-line. also support multiple install.
+usage : insurl [options] url

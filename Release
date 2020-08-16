@@ -1,7 +1,7 @@
 Origin: Moose Repo
 Label: Moose Official Repo
 Suite: stable
-Version: 1.2
+Version: 3.9.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main

@@ -1,35 +1,16 @@
-Package: com.bcdecryoted.moose
-Architecture: iphoneos-arm64e
-Version: 2.6.9
-Section: Tweaks
-Maintainer: moose 1
-Installed-Size: 784
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, com.opa334.altlist, firmware (>=11.0)
-Filename: ./debs/com.bcdecryoted.moose.deb
-Size: 251182
-MD5sum: 067c3bc0cd587283c4da1f1583635f27
-SHA1: fa0c67dfcd75628a7a9332696ef907cb1b9ae4e2
-SHA256: 2af1d832f96c76decdc58e98516e2a3d53070f2de49677b75b0ddd68e8f371a2
-SHA512: 6fe23c566b41ff436e4b643bdc8eb65fcea76c72376d38223a2dc1ecce18ad593c739900d500074faac1f1fc4b92866a5750243c8d6587fd92c7d328057eedcb
-Description: bfdecrypt for iOS 11+
-Name: bfdecrypt
-Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.bfdecrypt
-Author: Moose
-
 Package: com.kramerapps.jetsamctl
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Version: 0.2
 Section: System
 Maintainer: Doregon <tunnic.adam@gmail.com>
 Installed-Size: 208
 Depends: firmware (>= 6.0), dpkg (>= 1.13.25-5)
 Filename: ./debs/com.kramerapps.jetsamctl.deb
-Size: 7232
-MD5sum: d411ddbebafe399f7677113ac92f1c23
-SHA1: 9138ab87de220c0ecbae158f89f42c6fdd82c1b2
-SHA256: 18cddb5a6a9db702a9741d603bf6d5f0d9e28b6a7fc935fc216141f7afec0302
-SHA512: 78a223e623ec8f727ea4dd2e92d5330261c4b31cce8bf8eac713d098e0129fd6d535aa731642cdff9d33828befe719e1f10bac596664d120ad4221438bd29012
+Size: 5412
+MD5sum: 6380d183d2e31afc06756fc0fb00b9f2
+SHA1: c97411e6d64d8fb13735b6c2068a998a13e855aa
+SHA256: a437c7991a7c13c1fff4bbc00f369c11e8576728e4ba2aac0b1162a67f20e192
+SHA512: b58d6079fb995dc019af2c658b747c8d71bfbdd563ad473ff6b97cad0e942b14b39724b1bfbf996672f29108504607cde59eeaa524e78dd7c9b38cbe71df8bdd
 Description: Modify Jetsam constraints
 Name: conradev's jetsamctl
 Author: Conrad Kramer <conrad@kramerapps.com>

@@ -1,0 +1,25 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Mon, 18 Mar 2024 14:37:08 +0000
+Description: well...
+Label: Moose
+Origin: Moose
+Suite: stable
+Version: 1.0
+MD5Sum:
+ d81c1081fc66e5b9ab1a5257e999eaf8             2169 Packages.bz2
+ a1a1e7753c83864ac8905d92a3f7b005             2064 Packages.gz
+ 72bb25d42103e57b2c2a780eb7c45cf0              172 Release
+SHA1:
+ d1253bc1e27696374426aeb5b4ed17689cd31217             2169 Packages.bz2
+ 0bc03842a22987b0b0ce7fa251c989afdc8258b4             2064 Packages.gz
+ d3aa939a73246faf07317e90d3e10ac02d40eb61              172 Release
+SHA256:
+ c51387c726a2db687b4175f043f0d11217ca341a7e2104a0f45cf04dfb12c38c             2169 Packages.bz2
+ 47c04933a9452f44dcb772bf64216b81c829670fdb95e2a697200b825334ecc2             2064 Packages.gz
+ 7784225996dafb78c0e86d46f010714acdfdbf38f768cca13810aafcfb9be15a              172 Release
+SHA512:
+ cb7358b36a1f89b89cf27fc9bdc3b0e476aba9c99f991d9dcff9c22ab350d7b055395757cebb271ddcc1d9ebf85ac4715eb6532734ef0cab9d4e70ac5016f920             2169 Packages.bz2
+ add6681243325f56e90727767d883e62c487a50a8fee73e109d62c9e7e9cc49dc539c172f167383f479a2436d1ba989d609dee34f332be0d0dab30b1bf963869             2064 Packages.gz
+ 885451f06f80813830694f10f3ee3a7251df9a3a922d03920837c636d85903fb10b9fe673db751311236ee177ce95640c5119b409741082d9ac9cf0f5bcbd3b9              172 Release
